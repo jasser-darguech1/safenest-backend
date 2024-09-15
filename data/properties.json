@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Apartment Near Campus",
+    "description": "Experience modern living in this spacious 2-bedroom, 1.5-bathroom apartment located in the heart of downtown Seattle. This 1,250 sq. ft. home features an open-concept layout with a sunlit living room, large windows, and sleek finishes. The contemporary kitchen is equipped with stainless steel appliances, granite countertops, and ample cabinetry, perfect for both everyday use and entertaining. Bedrooms are generously sized with ample closet space, and the master suite boasts a private ensuite bathroom. Stylish bathrooms include full-sized shower/tub combos and elegant vanities. Additional highlights include in-unit laundry, central air conditioning/heating, and a private balcony with city views. Residents enjoy access to building amenities such as a rooftop terrace, fitness center, and a swimming pool, while being just steps away from Pike Place Market, trendy shops, and convenient public transport. Lease terms include a 12-month lease, pet-friendly policy with a small deposit, and a security deposit of $1,500.",
+    "price": 800,
+    "beds": 2,
+    "baths":1.5,
+    "safetyScore": 8,
+    "inclusivityFeatures": ["LGBTQ+ Friendly", "Pet Friendly"],
+    "location": {
+      "address": "123 Main St, Blacksburg, VA"
+    },
+    "imageUrl": "https://images1.apartments.com/i2/9nF2vdvFUJDq_gl9VvsDVkD2vYzh3YPPcccfFx2KmYs/116/foxridge-apartment-homes-blacksburg-va-primary-photo.jpg?p=1",
+    "images": [
+      "https://images1.apartments.com/i2/9nF2vdvFUJDq_gl9VvsDVkD2vYzh3YPPcccfFx2KmYs/116/foxridge-apartment-homes-blacksburg-va-primary-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/LNv2ced5opgDuehvFmX7HQEUVMuLzdVAehEGwbvi74A/111/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/EPWKRReYtRsbWoKKyK49Jd5TtPhBzRAkPMsJBI-sUxk/111/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/gtLN8JkOYJLx4_vb3fhCfummuwx81Xd4FGJK75g1g-Q/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/hId-2N2Ll8fHoqCJHzU8PnZJSlV-sPZxZOmOR3zqTv0/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/wwedKDFbbqlg-QRkAy6ItRa6N1E7vcsmySLZlytqBSI/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/UcJxkbZS25RdqUnsozoBmJth7VnhxQiwISg4KQSA6fk/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/_8D_8Yk8_11gnd060-p2NmUy61-rmXVvGuOgVc8kH9g/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/_8D_8Yk8_11gnd060-p2NmUy61-rmXVvGuOgVc8kH9g/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1"
+
+
+    ],
+    "reviews": [
+      {
+        "author": "John Doe",
+        "subject":"MUST SEE",
+        "comment": "Great place, very clean!",
+        "rating": 5
+      },
+      {
+        "author": "Jane Smith",
+        "subject":"MAYBE SEE",
+        "comment": "Lovely location, would stay again.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cozy Apartment Near Campus",
+    "description": "Experience modern living in this spacious 2-bedroom, 1.5-bathroom apartment located in the heart of downtown Seattle. This 1,250 sq. ft. home features an open-concept layout with a sunlit living room, large windows, and sleek finishes. The contemporary kitchen is equipped with stainless steel appliances, granite countertops, and ample cabinetry, perfect for both everyday use and entertaining. Bedrooms are generously sized with ample closet space, and the master suite boasts a private ensuite bathroom. Stylish bathrooms include full-sized shower/tub combos and elegant vanities. Additional highlights include in-unit laundry, central air conditioning/heating, and a private balcony with city views. Residents enjoy access to building amenities such as a rooftop terrace, fitness center, and a swimming pool, while being just steps away from Pike Place Market, trendy shops, and convenient public transport. Lease terms include a 12-month lease, pet-friendly policy with a small deposit, and a security deposit of $1,500.",
+    "price": 800,
+    "beds": 2,
+    "baths":1.5,
+    "safetyScore": 8,
+    "inclusivityFeatures": ["LGBTQ+ Friendly", "Pet Friendly"],
+    "location": {
+      "address": "123 Main St, Blacksburg, VA"
+    },
+    "imageUrl": "https://images1.apartments.com/i2/9nF2vdvFUJDq_gl9VvsDVkD2vYzh3YPPcccfFx2KmYs/116/foxridge-apartment-homes-blacksburg-va-primary-photo.jpg?p=1",
+    "images": [
+      "https://images1.apartments.com/i2/9nF2vdvFUJDq_gl9VvsDVkD2vYzh3YPPcccfFx2KmYs/116/foxridge-apartment-homes-blacksburg-va-primary-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/LNv2ced5opgDuehvFmX7HQEUVMuLzdVAehEGwbvi74A/111/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/EPWKRReYtRsbWoKKyK49Jd5TtPhBzRAkPMsJBI-sUxk/111/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/gtLN8JkOYJLx4_vb3fhCfummuwx81Xd4FGJK75g1g-Q/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/hId-2N2Ll8fHoqCJHzU8PnZJSlV-sPZxZOmOR3zqTv0/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/wwedKDFbbqlg-QRkAy6ItRa6N1E7vcsmySLZlytqBSI/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/UcJxkbZS25RdqUnsozoBmJth7VnhxQiwISg4KQSA6fk/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/_8D_8Yk8_11gnd060-p2NmUy61-rmXVvGuOgVc8kH9g/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1"
+
+
+    ],
+    "reviews": [
+      {
+        "author": "John Doe",
+        "subject":"MUST SEE",
+        "comment": "Great place, very clean!",
+        "rating": 5
+      },
+      {
+        "author": "Jane Smith",
+        "subject":"MAYBE SEE",
+        "comment": "Lovely location, would stay again.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Cozy Apartment Near Campus",
+    "description": "Experience modern living in this spacious 2-bedroom, 1.5-bathroom apartment located in the heart of downtown Seattle. This 1,250 sq. ft. home features an open-concept layout with a sunlit living room, large windows, and sleek finishes. The contemporary kitchen is equipped with stainless steel appliances, granite countertops, and ample cabinetry, perfect for both everyday use and entertaining. Bedrooms are generously sized with ample closet space, and the master suite boasts a private ensuite bathroom. Stylish bathrooms include full-sized shower/tub combos and elegant vanities. Additional highlights include in-unit laundry, central air conditioning/heating, and a private balcony with city views. Residents enjoy access to building amenities such as a rooftop terrace, fitness center, and a swimming pool, while being just steps away from Pike Place Market, trendy shops, and convenient public transport. Lease terms include a 12-month lease, pet-friendly policy with a small deposit, and a security deposit of $1,500.",
+    "price": 800,
+    "beds": 2,
+    "baths":1.5,
+    "safetyScore": 8,
+    "inclusivityFeatures": ["LGBTQ+ Friendly", "Pet Friendly"],
+    "location": {
+      "address": "123 Main St, Blacksburg, VA"
+    },
+    "imageUrl": "https://images1.apartments.com/i2/9nF2vdvFUJDq_gl9VvsDVkD2vYzh3YPPcccfFx2KmYs/116/foxridge-apartment-homes-blacksburg-va-primary-photo.jpg?p=1",
+    "images": [
+      "https://images1.apartments.com/i2/9nF2vdvFUJDq_gl9VvsDVkD2vYzh3YPPcccfFx2KmYs/116/foxridge-apartment-homes-blacksburg-va-primary-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/LNv2ced5opgDuehvFmX7HQEUVMuLzdVAehEGwbvi74A/111/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/EPWKRReYtRsbWoKKyK49Jd5TtPhBzRAkPMsJBI-sUxk/111/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/gtLN8JkOYJLx4_vb3fhCfummuwx81Xd4FGJK75g1g-Q/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/hId-2N2Ll8fHoqCJHzU8PnZJSlV-sPZxZOmOR3zqTv0/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/wwedKDFbbqlg-QRkAy6ItRa6N1E7vcsmySLZlytqBSI/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/UcJxkbZS25RdqUnsozoBmJth7VnhxQiwISg4KQSA6fk/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1",
+      "https://images1.apartments.com/i2/_8D_8Yk8_11gnd060-p2NmUy61-rmXVvGuOgVc8kH9g/117/foxridge-apartment-homes-blacksburg-va-building-photo.jpg?p=1"
+
+
+    ],
+    "reviews": [
+      {
+        "author": "John Doe",
+        "subject":"MUST SEE",
+        "comment": "Great place, very clean!",
+        "rating": 5
+      },
+      {
+        "author": "Jane Smith",
+        "subject":"MAYBE SEE",
+        "comment": "Lovely location, would stay again.",
+        "rating": 4
+      }
+    ]
+  }
+]
