@@ -5,7 +5,9 @@ const propertyRoutes = require('./routes/properties');
 require('dotenv').config();
 
 // Connect to MongoDB
-const mongoURI = process.env.MONGODB_URI;
+// const mongoURI = process.env.MONGODB_URI;
+const mongoURI = 'mongodb+srv://jasser:X5fy57QDWNNSNbcS@cluster0.0fsc1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'; // Same as before
+
 
 const app = express();
 app.use(cors());
